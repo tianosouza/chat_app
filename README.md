@@ -1,6 +1,12 @@
-# Get Starting
+# Ruby on Rails and Docker
+  ## Get Starting
+    - Run the application
 
-  ## Ruby on Rails and Docker
+    bash
+     - git clone https://github.com/tianosouza/chat_app.git
+     - Ctrl+Shift+p -> Dev: Reopen in container
+     - wait until you finish lifting the container:
+      - for up serv: bin/dev or rails s 
 
   Build RoR 7 application with Docker for the first time.
 
